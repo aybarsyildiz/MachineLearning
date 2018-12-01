@@ -67,6 +67,7 @@ if(abs(z-target)>0.1):
         print(z)
         print(count,"Times trained.")
         print("Target was: ",target)
+        
 
 
 
